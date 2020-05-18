@@ -5,7 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HotBag.AspNetCore" Version="1.0.1" />
+    <PackageReference Include="HotBag.AspNetCore" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Dtos\" />
   </ItemGroup>
 
 </Project>

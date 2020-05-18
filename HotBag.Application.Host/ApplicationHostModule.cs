@@ -16,6 +16,7 @@ namespace HotBag.Application.Host
         { 
             HotBagConfiguration.Configurations.ApplicationSettings.Features.IsEnableSwaggerApiDoc = true;
             HotBagConfiguration.Configurations.ApplicationSettings.SentDetailExceptionMessage = false;
+            HotBagConfiguration.Configurations.ApplicationSettings.Features.IsEnableResultWrapper = true;
 
             base.Initialize(serviceCollection, configuration);
 

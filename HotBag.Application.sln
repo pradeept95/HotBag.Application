@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotBag.Web", "HotBag.Web\HotBag.Web.csproj", "{CFE6362B-F7CA-4FCD-A29D-875B7A481D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotBag.Web", "HotBag.Web\HotBag.Web.csproj", "{CFE6362B-F7CA-4FCD-A29D-875B7A481D3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{A5C333EE-CD92-4933-83CD-AC15943AFCDF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{3E1AF940-8A0F-4B1E-AE06-6EB47D1FBFED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotBag.Application.Core", "Src\HotBag.Application.Core\HotBag.Application.Core.csproj", "{612D3BF6-8591-46BF-9FBC-C9A555269F14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotBag.Application.Core", "Src\HotBag.Application.Core\HotBag.Application.Core.csproj", "{612D3BF6-8591-46BF-9FBC-C9A555269F14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotBag.Application.Repository", "Src\HotBag.Application.Repository\HotBag.Application.Repository.csproj", "{6A2759BD-C071-4994-890A-2FF23D2CBE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotBag.Application.Repository", "Src\HotBag.Application.Repository\HotBag.Application.Repository.csproj", "{6A2759BD-C071-4994-890A-2FF23D2CBE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotBag.Application.Service", "Src\HotBag.Application.Service\HotBag.Application.Service.csproj", "{5E4D725F-5DC0-4BA0-A281-E6659AD00F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotBag.Application.Service", "Src\HotBag.Application.Service\HotBag.Application.Service.csproj", "{5E4D725F-5DC0-4BA0-A281-E6659AD00F2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotBag.Application.Host", "HotBag.Application.Host\HotBag.Application.Host.csproj", "{BD17ACC0-7EDC-4FA2-A77E-F0BDE8F782E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotBag.Application.Host", "HotBag.Application.Host\HotBag.Application.Host.csproj", "{BD17ACC0-7EDC-4FA2-A77E-F0BDE8F782E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{5A5756AB-A719-476A-935E-C051B3BAE0A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{5786EB68-54D6-4AB3-9401-516C59FC6152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

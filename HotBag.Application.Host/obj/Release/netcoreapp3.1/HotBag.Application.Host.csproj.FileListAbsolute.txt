@@ -1,0 +1,16 @@
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Host.deps.json
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Host.dll
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Host.pdb
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Core.dll
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Repository.dll
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Service.dll
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Service.pdb
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Core.pdb
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\bin\Release\netcoreapp3.1\HotBag.Application.Repository.pdb
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.AssemblyInfo.cs
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.csproj.CopyComplete
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.dll
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Application.Host\obj\Release\netcoreapp3.1\HotBag.Application.Host.pdb

@@ -1,6 +1,8 @@
 ﻿using HotBag.AspNetCore.Authorization;
 using HotBag.AspNetCore.ResultWrapper.ResponseModel;
 using HotBag.AspNetCore.Web.BaseController;
+using HotBag.Web.Events.EventModel;
+using HotBag.Web.Events.Publisher.EmailPublisher;
 using HotBag.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -12,15 +14,16 @@ namespace HotBag.Web.Controllers
 {
     public class DefaultController : BaseApiController
     {
-        public DefaultController()
+        public DefaultController(IEmailPublisher emailPublisher)
         {
-
+            this._emailPublisher = emailPublisher;
         }
 
         private static readonly string[] Summaries = new[]
        {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
+        private readonly IEmailPublisher _emailPublisher;
 
         [HttpGet]
         [HotBagAuthorize(HotBagClaimTypes.Permission, "WeatherForecast.Read")]
@@ -75,6 +78,14 @@ namespace HotBag.Web.Controllers
 
             return new ListResultDto<WeatherForecast>(result, "all forecast data");
         }
+
+        [HttpPost] 
+        public ResultDto<EmailModel> SentEmail([FromBody]EmailModel model)
+        {
+            _emailPublisher.SentEmail(model); 
+            return new ResultDto<EmailModel>(model);
+        }
+            
 
     }
 }

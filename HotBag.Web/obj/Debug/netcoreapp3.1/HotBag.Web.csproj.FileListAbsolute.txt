@@ -1,5 +1,7 @@
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\HotBag.Web.csprojAssemblyReference.cache
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\modulesettings.Development.json
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\modulesettings.json
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -65,7 +67,6 @@ C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\HotBag.Application.Core.pdb
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\HotBag.Application.Repository.pdb
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\bin\Debug\netcoreapp3.1\HotBag.Application.Service.pdb
-C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\HotBag.Web.csprojAssemblyReference.cache
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\HotBag.Web.csproj.CoreCompileInputs.cache
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\HotBag.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\HotBag.Web.MvcApplicationPartsAssemblyInfo.cache

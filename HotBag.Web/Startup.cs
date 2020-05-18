@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using HotBag.AspNetCore;
+using HotBag.AspNetCore.ResultWrapper.Filters;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,7 +26,11 @@ namespace HotBag.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHotBagCore();
-            services.AddControllersWithViews();
+            services.AddControllersWithViews( 
+              options =>
+              {
+                  options.Filters.Add(typeof(ModelStateFeatureFilter)); 
+              });
             
         }
 
