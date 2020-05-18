@@ -1,40 +1,65 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+@using HotBag.AspNetCore.AppSettings;
 
-    <div class="text-center">
-        <div class="container">
-            <div class="row">&nbsp;</div>
-            <div class="row">
-                <div class="col-2">User</div>
-                <div class="col-4"><input type="text" id="userInput" /></div>
-            </div>
-            <div class="row">
-                <div class="col-2">Message</div>
-                <div class="col-4"><input type="text" id="messageInput" /></div>
-            </div>
-            <div class="row">&nbsp;</div>
-            <div class="row">
-                <div class="col-6">
-                    <input type="button" id="sendButton" value="Send Message" />
+<style>
+    body{
+        height: 100%;
+        width : 100%;
+        overflow : hidden;
+    }
+
+    img.app-logo-c {
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+    }
+
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+</style>
+
+<!--   Big container   -->
+<div class="container">
+    <div class="row">
+    <div class="col-2"></div>
+        <div class="col-8 "> 
+            <!--      Wizard container        -->
+            <div class="wizard-container">
+
+                <!--You can switch " data-color="orange" "  
+                    with one of the next bright
+                    colors: "blue", "green", "orange", "red", "azure"  -->
+                <div class="card wizard-card" data-color="green" id="wizardProfile">
+                    <div class="wizard-header text-center">
+                        <h3 class="wizard-title">@HotBagConfiguration.Configurations.ApplicationSettings.ApplicationName</h3>
+                        <p class="category">Version :- @HotBagConfiguration.Configurations.ApplicationSettings.ApplicationVersion</p>
+                    </div> 
+
+                    <div class="row center">
+                        <div class="btn-group btn-group-toggle">
+                            <label class="btn btn-secondary">
+                                <a href="/Admin"  target="_blank">Go To Admin Page</a>
+                            </label>
+                            <label class="btn btn-secondary">
+                                <a href="/swagger"  target="_blank">Api Documents</a> 
+                            </label>
+                            <label class="btn btn-secondary">
+                                <a href="/">Refresh Page</a> 
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="row"> 
+                        <img class="app-logo-c" src="~/img/app-logo.png" />
+                    </div>
                 </div>
-            </div>
+            </div> <!-- wizard container -->
         </div>
-        <div class="row">
-            <div class="col-12">
-                <hr />
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-6">
-                @* <p>@Localizer["Hello world!"]</p>*@
-            </div>
-            <div class="col-6">
-                <ul id="messagesList"></ul>
-            </div>
-        </div>
-        <script src="~/js/signalr/dist/browser/signalr.js"></script>
-        <script src="~/js/chat.js"></script>
-
-
-    </div>
+    </div><!-- end row -->
+</div>
+<!--  big container -->

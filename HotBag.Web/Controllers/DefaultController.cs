@@ -1,4 +1,5 @@
 ﻿using HotBag.AspNetCore.Authorization;
+using HotBag.AspNetCore.Authorization.Identity;
 using HotBag.AspNetCore.ResultWrapper.ResponseModel;
 using HotBag.AspNetCore.Web.BaseController;
 using HotBag.Web.Events.EventModel;
@@ -84,8 +85,6 @@ namespace HotBag.Web.Controllers
         {
             _emailPublisher.SentEmail(model); 
             return new ResultDto<EmailModel>(model);
-        }
-            
-
+        } 
     }
 }

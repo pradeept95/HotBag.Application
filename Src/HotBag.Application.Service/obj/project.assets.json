@@ -28,7 +28,7 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
-      "HotBag.AspNetCore/1.0.2": {
+      "HotBag.AspNetCore/1.0.4": {
         "type": "package",
         "dependencies": {
           "HotBag.AspNetCore.AppSettings": "1.0.0",
@@ -42,11 +42,11 @@
           "HotBag.AspNetCore.Log": "1.0.0",
           "HotBag.AspNetCore.RabbitMQ": "1.0.0",
           "HotBag.AspNetCore.Reflection": "1.0.0",
-          "HotBag.AspNetCore.ResultWrapper": "1.0.0",
+          "HotBag.AspNetCore.ResultWrapper": "1.0.1",
           "HotBag.AspNetCore.Security": "1.0.0",
           "HotBag.AspNetCore.SignalR": "1.0.0",
           "HotBag.AspNetCore.Swagger": "1.0.0",
-          "HotBag.AspNetCore.Web": "1.0.0",
+          "HotBag.AspNetCore.Web": "1.0.1",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.Extensions.Configuration.Abstractions": "2.2.0",
@@ -209,7 +209,7 @@
           "lib/netstandard2.0/HotBag.AspNetCore.Reflection.dll": {}
         }
       },
-      "HotBag.AspNetCore.ResultWrapper/1.0.0": {
+      "HotBag.AspNetCore.ResultWrapper/1.0.1": {
         "type": "package",
         "dependencies": {
           "HotBag.AspNetCore.AppSettings": "1.0.0",
@@ -260,7 +260,7 @@
           "lib/netstandard2.0/HotBag.AspNetCore.Swagger.dll": {}
         }
       },
-      "HotBag.AspNetCore.Web/1.0.0": {
+      "HotBag.AspNetCore.Web/1.0.1": {
         "type": "package",
         "dependencies": {
           "HotBag.AspNetCore.AutoMapper": "1.0.0",
@@ -2830,7 +2830,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "HotBag.AspNetCore": "1.0.2"
+          "HotBag.AspNetCore": "1.0.4"
         },
         "compile": {
           "bin/placeholder/HotBag.Application.Core.dll": {}
@@ -2891,14 +2891,14 @@
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.pdb"
       ]
     },
-    "HotBag.AspNetCore/1.0.2": {
-      "sha512": "/jmxOfDH0qMdhCRT/Xu07Bi8FrTx58/qk2igEcfKaVpjvqPmTC5U0RdYjLjAaK74Ie0WH2XPc8o9zrBnp5zgQA==",
+    "HotBag.AspNetCore/1.0.4": {
+      "sha512": "6ZD4vqesKuJTIjo34Aa1+6jzyI5xWtHxgw0hg3rBVc+3Jye0qgyD5qjQcxmTIbHprG2EFtcP37iNZ+xgXTNqTQ==",
       "type": "package",
-      "path": "hotbag.aspnetcore/1.0.2",
+      "path": "hotbag.aspnetcore/1.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "hotbag.aspnetcore.1.0.2.nupkg.sha512",
+        "hotbag.aspnetcore.1.0.4.nupkg.sha512",
         "hotbag.aspnetcore.nuspec",
         "lib/netstandard2.0/HotBag.AspNetCore.dll"
       ]
@@ -3035,14 +3035,14 @@
         "lib/netstandard2.0/HotBag.AspNetCore.Reflection.dll"
       ]
     },
-    "HotBag.AspNetCore.ResultWrapper/1.0.0": {
-      "sha512": "ZmSn2LelWfGQyO+07TN5AaDjgwJxRomDpmMfwxvxe6hq89sIHlrHIsTshVy9LZs/sC/esMqb+qb9JTzjNZklcg==",
+    "HotBag.AspNetCore.ResultWrapper/1.0.1": {
+      "sha512": "dKBfISq1llANAZmy7oLh4TDV2il6gs6yzp6TpqnLbUt0F9kUMR8mFdD870o7m5uuvcya1O/pm0VbUIu9Gu63Eg==",
       "type": "package",
-      "path": "hotbag.aspnetcore.resultwrapper/1.0.0",
+      "path": "hotbag.aspnetcore.resultwrapper/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "hotbag.aspnetcore.resultwrapper.1.0.0.nupkg.sha512",
+        "hotbag.aspnetcore.resultwrapper.1.0.1.nupkg.sha512",
         "hotbag.aspnetcore.resultwrapper.nuspec",
         "lib/netstandard2.0/HotBag.AspNetCore.ResultWrapper.dll"
       ]
@@ -3083,14 +3083,14 @@
         "lib/netstandard2.0/HotBag.AspNetCore.Swagger.dll"
       ]
     },
-    "HotBag.AspNetCore.Web/1.0.0": {
-      "sha512": "AAuGkonEP6WivRAC7eOJkAmCwn4yXYYZ9T5PVfs9yUR5Hw3z+Vl78PWn3F3vsD4Iae0DISFzROGI8S64ouNirw==",
+    "HotBag.AspNetCore.Web/1.0.1": {
+      "sha512": "/eR9HEDM/M7vNae8rLnJwyL3AatwOpKtqnWROS6ZrZ4U51jXkm5o9YdmJkRVT21lgfTj3K1OUtItyD7JuVJZXw==",
       "type": "package",
-      "path": "hotbag.aspnetcore.web/1.0.0",
+      "path": "hotbag.aspnetcore.web/1.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "hotbag.aspnetcore.web.1.0.0.nupkg.sha512",
+        "hotbag.aspnetcore.web.1.0.1.nupkg.sha512",
         "hotbag.aspnetcore.web.nuspec",
         "lib/netstandard2.0/HotBag.AspNetCore.Web.dll"
       ]

@@ -38,7 +38,7 @@
           }
         }
       },
-      "HotBag.AspNetCore/1.0.2": {
+      "HotBag.AspNetCore/1.0.4": {
         "dependencies": {
           "HotBag.AspNetCore.AppSettings": "1.0.0",
           "HotBag.AspNetCore.Authorization": "1.0.0",
@@ -51,11 +51,11 @@
           "HotBag.AspNetCore.Log": "1.0.0",
           "HotBag.AspNetCore.RabbitMQ": "1.0.0",
           "HotBag.AspNetCore.Reflection": "1.0.0",
-          "HotBag.AspNetCore.ResultWrapper": "1.0.0",
+          "HotBag.AspNetCore.ResultWrapper": "1.0.1",
           "HotBag.AspNetCore.Security": "1.0.0",
           "HotBag.AspNetCore.SignalR": "1.0.0",
           "HotBag.AspNetCore.Swagger": "1.0.0",
-          "HotBag.AspNetCore.Web": "1.0.0",
+          "HotBag.AspNetCore.Web": "1.0.1",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.Extensions.Configuration.Abstractions": "2.2.0",
@@ -63,8 +63,8 @@
         },
         "runtime": {
           "lib/netstandard2.0/HotBag.AspNetCore.dll": {
-            "assemblyVersion": "1.0.2.0",
-            "fileVersion": "1.0.2.0"
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
           }
         }
       },
@@ -207,15 +207,15 @@
           }
         }
       },
-      "HotBag.AspNetCore.ResultWrapper/1.0.0": {
+      "HotBag.AspNetCore.ResultWrapper/1.0.1": {
         "dependencies": {
           "HotBag.AspNetCore.AppSettings": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
         },
         "runtime": {
           "lib/netstandard2.0/HotBag.AspNetCore.ResultWrapper.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -254,18 +254,18 @@
           }
         }
       },
-      "HotBag.AspNetCore.Web/1.0.0": {
+      "HotBag.AspNetCore.Web/1.0.1": {
         "dependencies": {
           "HotBag.AspNetCore.AutoMapper": "1.0.0",
           "HotBag.AspNetCore.DI": "1.0.0",
           "HotBag.AspNetCore.Data": "1.0.0",
-          "HotBag.AspNetCore.ResultWrapper": "1.0.0",
+          "HotBag.AspNetCore.ResultWrapper": "1.0.1",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
         },
         "runtime": {
           "lib/netstandard2.0/HotBag.AspNetCore.Web.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       },
@@ -1728,7 +1728,7 @@
       },
       "HotBag.Application.Core/1.0.0": {
         "dependencies": {
-          "HotBag.AspNetCore": "1.0.2"
+          "HotBag.AspNetCore": "1.0.4"
         },
         "runtime": {
           "HotBag.Application.Core.dll": {}
@@ -1764,12 +1764,12 @@
       "path": "automapper.extensions.microsoft.dependencyinjection/6.0.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512"
     },
-    "HotBag.AspNetCore/1.0.2": {
+    "HotBag.AspNetCore/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/jmxOfDH0qMdhCRT/Xu07Bi8FrTx58/qk2igEcfKaVpjvqPmTC5U0RdYjLjAaK74Ie0WH2XPc8o9zrBnp5zgQA==",
-      "path": "hotbag.aspnetcore/1.0.2",
-      "hashPath": "hotbag.aspnetcore.1.0.2.nupkg.sha512"
+      "sha512": "sha512-6ZD4vqesKuJTIjo34Aa1+6jzyI5xWtHxgw0hg3rBVc+3Jye0qgyD5qjQcxmTIbHprG2EFtcP37iNZ+xgXTNqTQ==",
+      "path": "hotbag.aspnetcore/1.0.4",
+      "hashPath": "hotbag.aspnetcore.1.0.4.nupkg.sha512"
     },
     "HotBag.AspNetCore.AppSettings/1.0.0": {
       "type": "package",
@@ -1848,12 +1848,12 @@
       "path": "hotbag.aspnetcore.reflection/1.0.0",
       "hashPath": "hotbag.aspnetcore.reflection.1.0.0.nupkg.sha512"
     },
-    "HotBag.AspNetCore.ResultWrapper/1.0.0": {
+    "HotBag.AspNetCore.ResultWrapper/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ZmSn2LelWfGQyO+07TN5AaDjgwJxRomDpmMfwxvxe6hq89sIHlrHIsTshVy9LZs/sC/esMqb+qb9JTzjNZklcg==",
-      "path": "hotbag.aspnetcore.resultwrapper/1.0.0",
-      "hashPath": "hotbag.aspnetcore.resultwrapper.1.0.0.nupkg.sha512"
+      "sha512": "sha512-dKBfISq1llANAZmy7oLh4TDV2il6gs6yzp6TpqnLbUt0F9kUMR8mFdD870o7m5uuvcya1O/pm0VbUIu9Gu63Eg==",
+      "path": "hotbag.aspnetcore.resultwrapper/1.0.1",
+      "hashPath": "hotbag.aspnetcore.resultwrapper.1.0.1.nupkg.sha512"
     },
     "HotBag.AspNetCore.Security/1.0.0": {
       "type": "package",
@@ -1876,12 +1876,12 @@
       "path": "hotbag.aspnetcore.swagger/1.0.0",
       "hashPath": "hotbag.aspnetcore.swagger.1.0.0.nupkg.sha512"
     },
-    "HotBag.AspNetCore.Web/1.0.0": {
+    "HotBag.AspNetCore.Web/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AAuGkonEP6WivRAC7eOJkAmCwn4yXYYZ9T5PVfs9yUR5Hw3z+Vl78PWn3F3vsD4Iae0DISFzROGI8S64ouNirw==",
-      "path": "hotbag.aspnetcore.web/1.0.0",
-      "hashPath": "hotbag.aspnetcore.web.1.0.0.nupkg.sha512"
+      "sha512": "sha512-/eR9HEDM/M7vNae8rLnJwyL3AatwOpKtqnWROS6ZrZ4U51jXkm5o9YdmJkRVT21lgfTj3K1OUtItyD7JuVJZXw==",
+      "path": "hotbag.aspnetcore.web/1.0.1",
+      "hashPath": "hotbag.aspnetcore.web.1.0.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication/2.2.0": {
       "type": "package",

@@ -26,12 +26,12 @@ namespace HotBag.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHotBagCore();
-            services.AddControllersWithViews( 
+            services.AddControllersWithViews(
               options =>
               {
-                  options.Filters.Add(typeof(ModelStateFeatureFilter)); 
+                  options.Filters.Add(typeof(ModelStateFeatureFilter));
               });
-            
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -59,8 +59,13 @@ namespace HotBag.Web
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                   name: "default",
+                   pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                endpoints.MapAreaControllerRoute(
+                    name: "Default",
+                    areaName: "Admin",
+                    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"); 
             });
         }
     }
