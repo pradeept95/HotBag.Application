@@ -172,3 +172,6 @@ C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavbarPartial.cshtml.g.cs
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\prade\source\repos\HotBag.Application\HotBag.Web\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SidebarPartial.cshtml.g.cs
