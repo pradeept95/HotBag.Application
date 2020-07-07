@@ -1,6 +1,6 @@
 {
   "Modules": {
-    "Installed": "",
+    "Installed": "Plugin.PdfGenerator,Plugin.MaintenancePage",
     "Default": "CoreModule,ApplicationCoreModule,ApplicationRepositoryModule,ApplicationServiceModule,ApplicationHostModule",
     "ORM": "",
     "ORMInstalled": ""

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using HotBag.AspNetCore;
 using HotBag.AspNetCore.ResultWrapper.Filters;
+using HotBag.Plugin.Maintenance;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -37,6 +38,9 @@ namespace HotBag.Web
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
+            app.UseHotBagMaintenance();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -55,6 +59,7 @@ namespace HotBag.Web
             app.UseAuthorization();
 
             app.UseHotBagCore();
+
 
             app.UseEndpoints(endpoints =>
             {

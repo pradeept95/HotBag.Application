@@ -1,0 +1,14 @@
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\libwkhtmltox.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\libwkhtmltox.dylib
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\libwkhtmltox.so
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.deps.json
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.pdb
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\HotBag.Application.Core.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\bin\Release\netcoreapp3.1\HotBag.Application.Core.pdb
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.AssemblyInfo.cs
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.csproj.CopyComplete
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.PdfGenerator\obj\Release\netcoreapp3.1\HotBag.Plugin.PdfGenerator.pdb

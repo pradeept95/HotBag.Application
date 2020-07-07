@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HotBag.Application.Core</id>
+    <version>1.0.0</version>
+    <authors>HotBag.Application.Core</authors>
+    <owners>HotBag.Application.Core</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="HotBag.AspNetCore" version="1.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\bin\Debug\netcoreapp3.1\HotBag.Application.Core.dll" target="lib\netcoreapp3.1\HotBag.Application.Core.dll" />
+  </files>
+</package>

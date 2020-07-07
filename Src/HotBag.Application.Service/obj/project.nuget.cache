@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cjHfjomOTlXIjChbipMd+5TxBi2wrT9iejWRJTcKWO1xozsLyg8qgQl4sPuUMh4tDxOzPl2cSvzhBkPodcEhag==",
+  "dgSpecHash": "sZqz1Gv0BVQvSyH3lTL9OCObWXhUTPa5U7a06l7HEKXatuHC9/ze2lO3uKQxNY71tusHz5JveXLrXZ/8LchJyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Service\\HotBag.Application.Service.csproj",
   "expectedPackageFiles": [
@@ -192,7 +192,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

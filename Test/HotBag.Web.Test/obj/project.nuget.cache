@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eA/d19VFMM6zPwH/NVPoB33/ICz3/emdsYZ3q0BM6W5KAsg77dzGIaeaBthRxwKDK8kf8lcpaDMFrmfpgptrug==",
+  "dgSpecHash": "CHp+OXnJP5hWH3qYFv4uY0P7/KS3DAFrntlvbnoGajiz7PYfnsLldXg9g4S53LeRjT2KV/QW77rII6cAjL46TQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Test\\HotBag.Web.Test\\HotBag.Web.Test.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\prade\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\prade\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

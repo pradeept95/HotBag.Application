@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k7dzrM+7dKvn1szksicL5rzbBJze7rt/ggx1ZgfvpY9JiuuQrVIzicgOHOzQGnNaQD3DwyqgD1N3L7MK03Yckw==",
+  "dgSpecHash": "EguoephWZugqmb8ajpMVS13hp15F5weUIxvA/mjwIH0W3NyTnJXMHX1JJWR7zrqnu6SukJPRy1YSsnMlhF3c2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\HotBag.Web\\HotBag.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prade\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\hotbag.aspnetcore\\1.0.4\\hotbag.aspnetcore.1.0.4.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\hotbag.aspnetcore.appsettings\\1.0.0\\hotbag.aspnetcore.appsettings.1.0.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\hotbag.aspnetcore.authorization\\1.0.0\\hotbag.aspnetcore.authorization.1.0.0.nupkg.sha512",
@@ -216,11 +217,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,13 @@
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.deps.json
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.pdb
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\HotBag.Application.Core.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\HotBag.Application.Core.pdb
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.AssemblyInfo.cs
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.csproj.CopyComplete
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.dll
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\obj\Debug\netcoreapp3.1\HotBag.Plugin.Maintenance.pdb
+C:\Users\prade\source\repos\HotBag.Application\Plugins\HotBag.Plugin.Maintenance\bin\Debug\netcoreapp3.1\template.html

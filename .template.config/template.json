@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Pradeep Raj Thapaliya",
+  "classifications": [ "Web" ],
+  "identity": "HotBag.Application.Template",
+  "name": "Startup Boilerplate for asp.net core - HotBag",
+  "shortName": "hotbag-web",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

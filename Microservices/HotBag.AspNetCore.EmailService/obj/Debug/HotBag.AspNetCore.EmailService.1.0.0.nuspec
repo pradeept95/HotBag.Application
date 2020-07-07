@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HotBag.AspNetCore.EmailService</id>
+    <version>1.0.0</version>
+    <authors>HotBag.AspNetCore.EmailService</authors>
+    <owners>HotBag.AspNetCore.EmailService</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="HotBag.AspNetCore.RabbitMQ" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.WindowsServices" version="3.1.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\prade\source\repos\HotBag.Application\Microservices\HotBag.AspNetCore.EmailService\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EmailService.runtimeconfig.json" target="lib\netcoreapp3.1\HotBag.AspNetCore.EmailService.runtimeconfig.json" />
+    <file src="C:\Users\prade\source\repos\HotBag.Application\Microservices\HotBag.AspNetCore.EmailService\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EmailService.dll" target="lib\netcoreapp3.1\HotBag.AspNetCore.EmailService.dll" />
+  </files>
+</package>

@@ -1,9 +1,8 @@
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\bin\Debug\netcoreapp3.1\HotBag.Application.Core.deps.json
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\bin\Debug\netcoreapp3.1\HotBag.Application.Core.dll
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\bin\Debug\netcoreapp3.1\HotBag.Application.Core.pdb
-C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.csproj.CoreCompileInputs.cache
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.AssemblyInfoInputs.cache
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.AssemblyInfo.cs
+C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.csproj.CoreCompileInputs.cache
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.dll
 C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.pdb
-C:\Users\prade\source\repos\HotBag.Application\Src\HotBag.Application.Core\obj\Debug\netcoreapp3.1\HotBag.Application.Core.csprojAssemblyReference.cache

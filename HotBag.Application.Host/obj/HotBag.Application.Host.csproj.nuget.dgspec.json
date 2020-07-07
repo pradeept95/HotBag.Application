@@ -30,6 +30,12 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\HotBag.Plugin.Maintenance.csproj": {
+                "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\HotBag.Plugin.Maintenance.csproj"
+              },
+              "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\HotBag.Plugin.PdfGenerator.csproj": {
+                "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\HotBag.Plugin.PdfGenerator.csproj"
+              },
               "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Service\\HotBag.Application.Service.csproj": {
                 "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Service\\HotBag.Application.Service.csproj"
               }
@@ -54,6 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +74,149 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\HotBag.Plugin.Maintenance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\HotBag.Plugin.Maintenance.csproj",
+        "projectName": "HotBag.Plugin.Maintenance",
+        "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\HotBag.Plugin.Maintenance.csproj",
+        "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.Maintenance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Core\\HotBag.Application.Core.csproj": {
+                "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Core\\HotBag.Application.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\HotBag.Plugin.PdfGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\HotBag.Plugin.PdfGenerator.csproj",
+        "projectName": "HotBag.Plugin.PdfGenerator",
+        "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\HotBag.Plugin.PdfGenerator.csproj",
+        "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Plugins\\HotBag.Plugin.PdfGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Core\\HotBag.Application.Core.csproj": {
+                "projectPath": "C:\\Users\\prade\\source\\repos\\HotBag.Application\\Src\\HotBag.Application.Core\\HotBag.Application.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DinkToPdf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -118,6 +272,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -126,7 +286,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -180,6 +340,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -188,7 +354,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -242,6 +408,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -250,7 +422,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

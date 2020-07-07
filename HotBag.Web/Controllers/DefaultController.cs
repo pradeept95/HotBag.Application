@@ -2,6 +2,7 @@
 using HotBag.AspNetCore.Authorization.Identity;
 using HotBag.AspNetCore.ResultWrapper.ResponseModel;
 using HotBag.AspNetCore.Web.BaseController;
+using HotBag.Plugin.PdfGenerator.PdfService;
 using HotBag.Web.Events.EventModel;
 using HotBag.Web.Events.Publisher.EmailPublisher;
 using HotBag.Web.Models;
@@ -14,10 +15,10 @@ using System.Threading.Tasks;
 namespace HotBag.Web.Controllers
 {
     public class DefaultController : BaseApiController
-    {
+    { 
         public DefaultController(IEmailPublisher emailPublisher)
         {
-            this._emailPublisher = emailPublisher;
+            this._emailPublisher = emailPublisher; 
         }
 
         private static readonly string[] Summaries = new[]
@@ -86,5 +87,6 @@ namespace HotBag.Web.Controllers
             _emailPublisher.SentEmail(model); 
             return new ResultDto<EmailModel>(model);
         } 
+       
     }
 }

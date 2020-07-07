@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Plugins\HotBag.Plugin.Maintenance\HotBag.Plugin.Maintenance.csproj" />
+    <ProjectReference Include="..\Plugins\HotBag.Plugin.PdfGenerator\HotBag.Plugin.PdfGenerator.csproj" />
     <ProjectReference Include="..\Src\HotBag.Application.Service\HotBag.Application.Service.csproj" />
   </ItemGroup>
 
